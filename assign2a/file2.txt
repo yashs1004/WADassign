@@ -1,0 +1,2 @@
+hello this is wad 2a assignment 
+in which im learning how to add repository to git
